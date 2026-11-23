@@ -1,3 +1,5 @@
+Nama  : Nurul Mutia
+NIM   : 2510120008
 NOIRE CAFE - ASSESSMENT II
 
 1. Letakkan folder NOIRE_Cafe_Assessment2 di C:\laragon\www\ atau salin isinya ke folder project Assessment 1.
