@@ -16,11 +16,8 @@ Pada Assessment II, aplikasi dikembangkan dengan menambahkan fitur PHP Session u
 Kesesuaian dengan Ketentuan Tugas:
 
 - Menerapkan PHP Session untuk menyimpan data sementara pengguna.
-
 - Menyediakan fitur upload gambar ke folder images.
-
 - Menyediakan fitur upload dokumen ke folder files.
-
 - Menerapkan validasi jenis dan ukuran file serta keamanan proses upload.
 
 Demikian pengembangan aplikasi NOIRÉ Café pada Assessment II ini dibuat sebagai penerapan materi PHP Session dan Upload File.
